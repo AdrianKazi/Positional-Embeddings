@@ -57,3 +57,7 @@ Three main positional encoding approaches:
 | RoPE | rotation applied to attention vectors | LLaMA, GPT-NeoX |
 
 The notebook combines mathematical intuition and visualizations to illustrate how transformers encode sequence order.
+
+## References
+
+Notebook is based on Mike X Cohen course. Models changes and additional explanations were added by myself.
